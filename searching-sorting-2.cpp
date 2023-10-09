@@ -74,7 +74,7 @@ void beadSort(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {5, 2, 9, 3, 6};
+    int arr[] = {2, 3, 1};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     cout << "Array sebelum diurutkan: " << endl;
